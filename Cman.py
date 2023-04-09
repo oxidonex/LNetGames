@@ -1,4 +1,5 @@
 #  version: 2.1. Release: 09.04.2023
+#  test propose
 
 import platform, re
 from os import system
